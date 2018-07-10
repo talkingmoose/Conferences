@@ -1,0 +1,17 @@
+<advanced_mobile_device_search>
+	<name>Mobile Devices with no asset tags</name>
+	<criteria>
+		<criterion>
+			<name>Asset Tag</name>
+			<priority>0</priority>
+			<and_or>and</and_or>
+			<search_type>is</search_type>
+			<value></value>
+		</criterion>
+	</criteria>
+	<display_fields>
+		<display_field>
+			<name>Serial Number</name>
+		</display_field>
+	</display_fields>
+</advanced_mobile_device_search>

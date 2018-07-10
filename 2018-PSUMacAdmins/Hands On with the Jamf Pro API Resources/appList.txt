@@ -1,0 +1,122 @@
+/Applications/1Password 7.app
+/Applications/Adobe Acrobat Reader DC.app
+/Applications/App Store.app
+/Applications/Apple Configurator 2.app
+/Applications/Atom.app
+/Applications/AutoDMG.app
+/Applications/Automator.app
+/Applications/BBEdit.app
+/Applications/Bear.app
+/Applications/Better.app
+/Applications/BetterZip.app
+/Applications/Calculator.app
+/Applications/Calendar.app
+/Applications/Camtasia 3.app
+/Applications/Cathode.app
+/Applications/Chess.app
+/Applications/Cisco AMP
+/Applications/Cisco Spark.app
+/Applications/CodeRunner.app
+/Applications/Contacts.app
+/Applications/CrashPlan.app
+/Applications/Dashboard.app
+/Applications/DB Browser for SQLite.app
+/Applications/Dictionary.app
+/Applications/Dropbox.app
+/Applications/duet.app
+/Applications/DVD Player.app
+/Applications/EncryptMe.app
+/Applications/FaceTime.app
+/Applications/Firefox.app
+/Applications/First Boot Package Install Generator.app
+/Applications/Flux.app
+/Applications/Font Book.app
+/Applications/Fork.app
+/Applications/GarageBand.app
+/Applications/GitHub Desktop.app
+/Applications/Google Chrome.app
+/Applications/grsync.app
+/Applications/HipChat.app
+/Applications/HipStatus.app
+/Applications/iBooks.app
+/Applications/Image Capture.app
+/Applications/iMovie.app
+/Applications/Install macOS High Sierra.app
+/Applications/Install macOS Sierra.app
+/Applications/Install OS X El Capitan.app
+/Applications/iOS Console.app
+/Applications/iStat Menus.app
+/Applications/iTerm.app
+/Applications/iTunes.app
+/Applications/Jamf Pro
+/Applications/jamf-migrator.app
+/Applications/jamfStatus.app
+/Applications/Keynote.app
+/Applications/KeyStore Explorer 5.2.2.app
+/Applications/Kindle.app
+/Applications/Launchpad.app
+/Applications/Lingon X.app
+/Applications/Mail.app
+/Applications/Maps.app
+/Applications/Messages.app
+/Applications/Microsoft Excel.app
+/Applications/Microsoft OneNote.app
+/Applications/Microsoft Outlook.app
+/Applications/Microsoft PowerPoint.app
+/Applications/Microsoft Remote Desktop.app
+/Applications/Microsoft Teams.app
+/Applications/Microsoft Word.app
+/Applications/Mission Control.app
+/Applications/MyWorkspace.app
+/Applications/Notes.app
+/Applications/Numbers.app
+/Applications/OmniGraffle.localized
+/Applications/OmniGraffle.app
+/Applications/OmniOutliner Pro.app
+/Applications/OneDrive.app
+/Applications/Pages.app
+/Applications/Pathology.app
+/Applications/Patterns.app
+/Applications/Photo Booth.app
+/Applications/Photos.app
+/Applications/Pixelmator.app
+/Applications/Postman.app
+/Applications/Preview.app
+/Applications/Push Diagnostics.app
+/Applications/QuickTime Player.app
+/Applications/Reminders.app
+/Applications/Remote Desktop.app
+/Applications/RPVoIP.app
+/Applications/Runecats GIF Maker.app
+/Applications/Safari.app
+/Applications/Script Debugger.app
+/Applications/Self Service.app
+/Applications/Siri.app
+/Applications/Skype for Business.app
+/Applications/Skype Meetings App.app
+/Applications/Skype.app
+/Applications/Slack.app
+/Applications/Snagit 2018.app
+/Applications/SnippetsLab.app
+/Applications/Stickies.app
+/Applications/Suspicious Package.app
+/Applications/System Preferences.app
+/Applications/TextEdit.app
+/Applications/The MUT.app
+/Applications/Things3.app
+/Applications/Time Machine.app
+/Applications/Transmit.app
+/Applications/Tweetbot.localized
+/Applications/TweetDeck.app
+/Applications/UI Browser.app
+/Applications/Utilities
+/Applications/VirtualBox.app
+/Applications/VMware Fusion.app
+/Applications/WhatsYourSign.app
+/Applications/WiFi Explorer.app
+/Applications/WiFi Signal.app
+/Applications/Wunderlist.app
+/Applications/WWDC.app
+/Applications/Xcode.app
+/Applications/Yammer.app
+/Applications/zoom.us.app

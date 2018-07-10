@@ -1,0 +1,17 @@
+# split the DMG
+/usr/bin/split -b 500m 'macOS High Sierra 10.13.4.dmg'
+
+# creates 500 MB files
+xaa
+xab
+xac
+xad
+xae
+xaf
+xag
+xah
+xai
+xaj
+
+# concatenates all files into new file
+/bin/cat xa* > new.dmg

@@ -1,0 +1,124 @@
+<applications>
+	<app>/Applications/1Password 7.app</app>
+	<app>/Applications/Adobe Acrobat Reader DC.app</app>
+	<app>/Applications/App Store.app</app>
+	<app>/Applications/Apple Configurator 2.app</app>
+	<app>/Applications/Atom.app</app>
+	<app>/Applications/AutoDMG.app</app>
+	<app>/Applications/Automator.app</app>
+	<app>/Applications/BBEdit.app</app>
+	<app>/Applications/Bear.app</app>
+	<app>/Applications/Better.app</app>
+	<app>/Applications/BetterZip.app</app>
+	<app>/Applications/Calculator.app</app>
+	<app>/Applications/Calendar.app</app>
+	<app>/Applications/Camtasia 3.app</app>
+	<app>/Applications/Cathode.app</app>
+	<app>/Applications/Chess.app</app>
+	<app>/Applications/Cisco AMP</app>
+	<app>/Applications/Cisco Spark.app</app>
+	<app>/Applications/CodeRunner.app</app>
+	<app>/Applications/Contacts.app</app>
+	<app>/Applications/CrashPlan.app</app>
+	<app>/Applications/Dashboard.app</app>
+	<app>/Applications/DB Browser for SQLite.app</app>
+	<app>/Applications/Dictionary.app</app>
+	<app>/Applications/Dropbox.app</app>
+	<app>/Applications/duet.app</app>
+	<app>/Applications/DVD Player.app</app>
+	<app>/Applications/EncryptMe.app</app>
+	<app>/Applications/FaceTime.app</app>
+	<app>/Applications/Firefox.app</app>
+	<app>/Applications/First Boot Package Install Generator.app</app>
+	<app>/Applications/Flux.app</app>
+	<app>/Applications/Font Book.app</app>
+	<app>/Applications/Fork.app</app>
+	<app>/Applications/GarageBand.app</app>
+	<app>/Applications/GitHub Desktop.app</app>
+	<app>/Applications/Google Chrome.app</app>
+	<app>/Applications/grsync.app</app>
+	<app>/Applications/HipChat.app</app>
+	<app>/Applications/HipStatus.app</app>
+	<app>/Applications/iBooks.app</app>
+	<app>/Applications/Image Capture.app</app>
+	<app>/Applications/iMovie.app</app>
+	<app>/Applications/Install macOS High Sierra.app</app>
+	<app>/Applications/Install macOS Sierra.app</app>
+	<app>/Applications/Install OS X El Capitan.app</app>
+	<app>/Applications/iOS Console.app</app>
+	<app>/Applications/iStat Menus.app</app>
+	<app>/Applications/iTerm.app</app>
+	<app>/Applications/iTunes.app</app>
+	<app>/Applications/Jamf Pro</app>
+	<app>/Applications/jamf-migrator.app</app>
+	<app>/Applications/jamfStatus.app</app>
+	<app>/Applications/Keynote.app</app>
+	<app>/Applications/KeyStore Explorer 5.2.2.app</app>
+	<app>/Applications/Kindle.app</app>
+	<app>/Applications/Launchpad.app</app>
+	<app>/Applications/Lingon X.app</app>
+	<app>/Applications/Mail.app</app>
+	<app>/Applications/Maps.app</app>
+	<app>/Applications/Messages.app</app>
+	<app>/Applications/Microsoft Excel.app</app>
+	<app>/Applications/Microsoft OneNote.app</app>
+	<app>/Applications/Microsoft Outlook.app</app>
+	<app>/Applications/Microsoft PowerPoint.app</app>
+	<app>/Applications/Microsoft Remote Desktop.app</app>
+	<app>/Applications/Microsoft Teams.app</app>
+	<app>/Applications/Microsoft Word.app</app>
+	<app>/Applications/Mission Control.app</app>
+	<app>/Applications/MyWorkspace.app</app>
+	<app>/Applications/Notes.app</app>
+	<app>/Applications/Numbers.app</app>
+	<app>/Applications/OmniGraffle.localized</app>
+	<app>/Applications/OmniGraffle.app</app>
+	<app>/Applications/OmniOutliner Pro.app</app>
+	<app>/Applications/OneDrive.app</app>
+	<app>/Applications/Pages.app</app>
+	<app>/Applications/Pathology.app</app>
+	<app>/Applications/Patterns.app</app>
+	<app>/Applications/Photo Booth.app</app>
+	<app>/Applications/Photos.app</app>
+	<app>/Applications/Pixelmator.app</app>
+	<app>/Applications/Postman.app</app>
+	<app>/Applications/Preview.app</app>
+	<app>/Applications/Push Diagnostics.app</app>
+	<app>/Applications/QuickTime Player.app</app>
+	<app>/Applications/Reminders.app</app>
+	<app>/Applications/Remote Desktop.app</app>
+	<app>/Applications/RPVoIP.app</app>
+	<app>/Applications/Runecats GIF Maker.app</app>
+	<app>/Applications/Safari.app</app>
+	<app>/Applications/Script Debugger.app</app>
+	<app>/Applications/Self Service.app</app>
+	<app>/Applications/Siri.app</app>
+	<app>/Applications/Skype for Business.app</app>
+	<app>/Applications/Skype Meetings App.app</app>
+	<app>/Applications/Skype.app</app>
+	<app>/Applications/Slack.app</app>
+	<app>/Applications/Snagit 2018.app</app>
+	<app>/Applications/SnippetsLab.app</app>
+	<app>/Applications/Stickies.app</app>
+	<app>/Applications/Suspicious Package.app</app>
+	<app>/Applications/System Preferences.app</app>
+	<app>/Applications/TextEdit.app</app>
+	<app>/Applications/The MUT.app</app>
+	<app>/Applications/Things3.app</app>
+	<app>/Applications/Time Machine.app</app>
+	<app>/Applications/Transmit.app</app>
+	<app>/Applications/Tweetbot.localized</app>
+	<app>/Applications/TweetDeck.app</app>
+	<app>/Applications/UI Browser.app</app>
+	<app>/Applications/Utilities</app>
+	<app>/Applications/VirtualBox.app</app>
+	<app>/Applications/VMware Fusion.app</app>
+	<app>/Applications/WhatsYourSign.app</app>
+	<app>/Applications/WiFi Explorer.app</app>
+	<app>/Applications/WiFi Signal.app</app>
+	<app>/Applications/Wunderlist.app</app>
+	<app>/Applications/WWDC.app</app>
+	<app>/Applications/Xcode.app</app>
+	<app>/Applications/Yammer.app</app>
+	<app>/Applications/zoom.us.app</app>
+</applications>
