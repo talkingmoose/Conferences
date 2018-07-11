@@ -17,20 +17,26 @@ function logresult()	{
 }
 
 # get XML for all categories
-categoryXML=$( /usr/bin/curl \
+result=$( /usr/bin/curl \
+--write-out "%{http_code}" \
 --user "$jamfUser:$jamfPass" \
 --header "Accept: text/xml" \
-$jamfURL/categories )
+"$jamfURL/categories" )
+
+# get just the status code
+resultStatus=${result: -3}
+
+# get just the XML
+resultXML=${result%???}
 
 # get list of categories from XML
-categoryList=$(/usr/bin/xmllint --format - <<< "$categoryXML" | awk -F "<name>|</name>" 'NF>1 { print $2 }' )
+categoryXML=$( /usr/bin/xmllint --format - <<< "$resultXML" | awk -F "<name>|</name>" 'NF>1 { print $2 }' )
 
 # test each category to see if it matches "Music"
 while IFS= read aCategory
 do
-	echo "Testing $aCategory"
 	[[ "$aCategory" = "Music" ]]
 	logresult "Category matched Music" "Category DID NOT MATCH Music"
-done <<< "$categoryList"
+done <<< "$categoryXML"
 
 exit 0

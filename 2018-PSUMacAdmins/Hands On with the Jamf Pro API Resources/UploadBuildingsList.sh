@@ -52,34 +52,29 @@ logresult "--------------------- Begin Script ---------------------"
 # buildingsList=$( cat '/path/to/buildingslist.txt' )
 # or
 buildingsList="Dome of the Rock
+Empire State Building
+House on the Rock
 La Pedrera
-One World Trade Center
-St Paul's Cathedral
-Petronas Towers
-The White House
-Leaning Tower of Pisa
-The Kaaba
-The Shard
-St Basil's Cathedral
-Colosseum
-Taj Mahal
-Sydney Opera House
-Space Needle
-Pantheon
-Turning Torso"
+One World Trade Center"
 
 logresult "Reading buildings list." "Failed to read buildings list."
 
 # upload building names, one at a time
 # the script will not modify buildings that already exist in the JSS
 
-while IFS= read aLine
+while IFS= read aBuilding
 do
-	THExml="<building><name>$aLine</name></building>"
+	THExml="<building><name>$aBuilding</name></building>"
 	
-	/usr/bin/curl -k $URL/JSSResource/buildings --user "$username:$password" -H "Content-Type: application/xml" -X POST -d "$THExml"
+	result=$( /usr/bin/curl -w "%{http_code}" $URL/JSSResource/buildings --user "$username:$password" -H "Content-Type: application/xml" -X POST -d "$THExml" )
 	
-	logresult "Uploaded builidng \"$aLine\"." "Failed to upload building \"$aLine\"."
+	# get just the status code
+	resultStatus=${result: -3}
+	
+	# status 201 indicates successful upload
+	[[ $resultStatus = 201 ]]
+	
+	logresult "[Result $resultStatus] Uploaded builidng \"$aBuilding\"." "[Result $resultStatus] Failed uploading building \"$aBuilding\"."
 	
 	count=$((count+1))
 
